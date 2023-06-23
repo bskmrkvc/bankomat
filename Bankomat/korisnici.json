@@ -1,0 +1,7 @@
+[{"ime":"Ognjen","prezime":"Ristovski","adminOnline":"true","pin":"1234","brojKartice":"1111-1111-1111-1111","jmbg":"2207002860001","id":3,"email":"ognjen42ristovski@gmail.com"},
+{"ime":"Sava","prezime":"Glavonic","adminOnline":"false","pin":"1234","brojKartice":"2222-2222-2222-2222","jmbg":"2207002860002","sumaNovca":11033.0,"id":21},
+{"ime":"Ognjen","prezime":"Vidovic","adminOnline":"false","pin":"1234","brojKartice":"3333-3333-3333-3333","jmbg":"2207002860003","sumaNovca":13501.21,"id":11},
+{"ime":"Dusan","prezime":"Savin","adminOnline":"false","pin":"1234","brojKartice":"4444-4444-4444-4444","jmbg":"2207002860004","sumaNovca":4000.0,"id":12},
+{"ime":"Bosko","prezime":"Markovic","adminOnline":"true","pin":"4321","brojKartice":"1234-5678-9012-3456","jmbg":"220700286006","id":7,"email":"markovic.bosko2000@gmail.com"},
+{"ime":"Sladjan","prezime":"Radovanovic","adminOnline":"false","pin":"1234","brojKartice":"5555-5555-5555-5555","jmbg":"2207002860005","sumaNovca":15500.0,"id":123},
+{"ime":"Pera","prezime":"Peric","adminOnline":"false","pin":"1234","brojKartice":"1234-1234-1234-1234","jmbg":"2207002860007","sumaNovca":700000.0,"id":525}]
